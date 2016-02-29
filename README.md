@@ -1,5 +1,6 @@
 # PopclipPDFHighlight
-A modified version of the PDF Highlight Extension by Pilotmoon which supports PDF Expert and, with one more adjustment, Scrivener.
+
+A modified version of the PDF Highlight Extension by Pilotmoon which supports [PDF Expert](http://https://pdfexpert.com) and, with one more adjustment, [Scrivener](http://https://www.literatureandlatte.com/scrivener.php).
 
 ## Scrivener Support:
 
